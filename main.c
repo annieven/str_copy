@@ -8,7 +8,7 @@ void str_copy(char *dest, char *src)
 
 int main()
 {
-    char str1[] = "abc";
+    char str1[] = "abcdef";
     char str2[] = "1234";
     int a;
 
